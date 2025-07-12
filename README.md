@@ -63,24 +63,6 @@ Optionally: Bootstrap or Tailwind CSS for faster styling
 ✅ How to Use / Run
 Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/portfolio-website.git
-Navigate to the project folder:
-
-bash
-Copy
-Edit
-cd portfolio-website
-Open index.html in your preferred browser.
-
-bash
-Copy
-Edit
-# On VS Code, you can use Live Server
-code .
-Customize content:
 
 Replace placeholder text with your own info.
 
